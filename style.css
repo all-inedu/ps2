@@ -3,14 +3,14 @@ body {
 }
 
 .home {
-    background: url('Aset/Aset_BG\ 1ST\ SECTION.webp');
+    background: url('Aset/Aset_BG 1ST SECTION.webp');
     background-size: 110% 110%;
     height: 100vh;
     background-position: center;
 }
 
 .readmore {
-    background: url('Aset/BG\ readmore.webp');
+    background: url('Aset/BG readmore.webp');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -18,7 +18,7 @@ body {
 }
 
 .journey {
-    background: url('Aset/BG\ JOURNEY.webp');
+    background: url('Aset/BG JOURNEY.webp');
     background-repeat: no-repeat;
     background-size: cover;
     height: auto;
@@ -26,7 +26,7 @@ body {
 }
 
 .team {
-    background: url('Aset/BG\ TEAM.webp');
+    background: url('Aset/BG TEAM.webp');
     background-attachment: fixed;
     background-size: cover;
     background-position: bottom;
@@ -35,7 +35,7 @@ body {
 }
 
 .gallery {
-    background: url('Aset/BG\ \ GALLERY.webp');
+    background: url('Aset/BG  GALLERY.webp');
     background-size: cover;
     background-position: center;
     height: auto;
@@ -44,7 +44,7 @@ body {
 }
 
 .insta {
-    background: url('Aset/Aset_BG\ INSTAGRAM.webp');
+    background: url('Aset/Aset_BG INSTAGRAM.webp');
     background-size: cover;
     height: auto;
     color: white;
