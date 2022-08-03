@@ -1,0 +1,154 @@
+body {
+    color: white;
+}
+
+.home {
+    background: url('/Aset/Aset_BG\ 1ST\ SECTION.webp');
+    background-size: 110% 110%;
+    height: 100vh;
+    background-position: center;
+}
+
+.readmore {
+    background: url('/Aset/BG\ readmore.webp');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+}
+
+.journey {
+    background: url('/Aset/BG\ JOURNEY.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    color: white;
+}
+
+.team {
+    background: url('/Aset/BG\ TEAM.webp');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+    height: auto;
+    padding: 120px 0;
+}
+
+.gallery {
+    background: url('/Aset/BG\ \ GALLERY.webp');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    color: white;
+    padding: 120px 0;
+}
+
+.insta {
+    background: url('/Aset/Aset_BG\ INSTAGRAM.webp');
+    background-size: cover;
+    height: auto;
+    color: white;
+    background-position: center;
+    padding: 50px 0;
+}
+
+
+.rmbtn {
+    transition: 0.3s;
+}
+
+.rmbtn:hover {
+    opacity: 0.7;
+}
+
+.thumb-youtube {
+    top: 80px;
+}
+
+.watch {
+    margin-top: 50px !important;
+}
+
+.team2 .col p {
+    font-size: 22px;
+}
+
+@media (max-width: 640px) {
+    .team {
+        min-height: 100vh;
+    }
+
+    .team2 .col p {
+        padding-top: 20px;
+        font-size: 13px;
+    }
+
+    .home0 {
+        background-size: cover;
+    }
+
+    .home1 {
+        margin-left: 100px;
+        position: relative;
+        bottom: 50px;
+    }
+
+    .rmimg {
+        position: relative;
+        margin-left: 20px;
+        padding-bottom: 100px;
+        top: -50px;
+    }
+
+    .thumb1 {
+        height: 200px;
+    }
+
+    .watch h2 {
+        position: relative;
+        font-size: 20px;
+        text-align: center;
+        z-index: 0;
+    }
+
+    .earlyrender1 {
+        padding-top: 40px;
+    }
+
+    .earlyrender2 {
+        padding-top: 50px;
+    }
+
+
+}
+
+#more {
+    display: none;
+}
+
+#myBtn {
+    transition: 0.3s;
+}
+
+#myBtn:hover {
+    opacity: 0.7;
+}
+
+.thumbnail {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.thumb1 {
+    position: relative;
+    top: 0;
+    left: 0;
+
+}
+
+.thumb2 {
+    position: absolute;
+    top: 120px;
+    left: 90px;
+}
